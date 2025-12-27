@@ -4,8 +4,8 @@
 可视化、结构化、地理信息和社会科学数据<br>
 意图驱动编程<br>
 <br>
-Enthusiasts of digital humanities<br>
-Teachers of philosophy and social sciences<br>
+Enthusiasts of Digital Humanities<br>
+A Teacher of philosophy and social sciences<br>
 Visualization, structuring, geographic information, and social science data<br>
 Intent-driven programming<br>
 <br>
