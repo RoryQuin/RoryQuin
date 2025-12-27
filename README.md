@@ -1,16 +1,14 @@
-## Hi there 👋
+## RoryQuin
+数字人文爱好者
+哲学社会科学教师
+可视化、结构化、地理信息和社会科学数据
+意图驱动编程
 
-<!--
-**RoryQuin/RoryQuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiasts of digital humanities
+Teachers of philosophy and social sciences
+Visualization, structuring, geographic information, and social science data
+Intent-driven programming
 
-Here are some ideas to get you started:
+> Idea by me, Coded by AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
